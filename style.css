@@ -1,0 +1,35 @@
+.inner{
+    margin-top: 100px;
+    border: 7px;
+    width: 95px;
+    height: 70px;
+    border-radius: 5%;
+    border-style: solid;
+    border-color: rgb(248, 248, 146);
+    background-color: rgb(124, 197, 240);
+    padding: 15%;
+   
+    
+}
+.mid{
+    width: 250px;
+    border: 7px solid greenyellow;
+    margin-right: 10px;
+    margin-left: 3px;
+    margin-top: 10%;
+    border-radius: 5%;
+    background-color: rgb(233, 139, 233);
+    padding: 15%;
+}
+.outer{
+    width: 250px;
+    height: 300px;
+    border: 7px;
+    border-color: rgb(250, 196, 47);
+    margin-top: 100px;
+    margin-left: 150px;
+    border-radius: 5%;
+    border-style: solid;
+    background-color: rgb(201, 90, 235);
+    padding: 160px;
+}
